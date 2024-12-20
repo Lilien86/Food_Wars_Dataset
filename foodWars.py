@@ -368,4 +368,4 @@ MODEL_NAME = "food_wars.pth"
 MODEL_SAVE_PATH = MODEL_PATH / MODEL_NAME
 
 print(f"Saving model to: {MODEL_SAVE_PATH}")
-torch.save(obj=model_0_results.state_dict(), f=MODEL_SAVE_PATH)
+torch.save(model_0.state_dict(), MODEL_SAVE_PATH)
