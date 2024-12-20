@@ -2,6 +2,15 @@
 
 A CNN model to recognize an images of "pizza", "suchi", "steak". It uses a custom dataset base on [FOOD101](https://data.vision.ee.ethz.ch/cvl/datasets_extra/food-101/) with basic data augmentation.
 
+## Data Exemples
+
+<div style="display: flex;">
+  <img src="https://github.com/user-attachments/assets/a084014d-7836-473d-83e4-f04c4d1a9509" alt="Image 1" style="margin-right: 10px; width: 150px;"/>
+  <img src="https://github.com/user-attachments/assets/2a131899-1607-4fa6-bfdd-22d00f9a6d53" alt="Image 2" style="margin-right: 10px; width: 150px;"/>
+  <img src="https://github.com/user-attachments/assets/eaf948b2-7eec-4884-b403-bc12e0d113d9" alt="Image 3" style="width: 150px;"/>
+</div>
+
+
 ## Data Preprocessing
 
 The images are preprocessed using the following steps:
