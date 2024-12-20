@@ -49,7 +49,7 @@ Simple Convolutional Neural Network (CNN) inspired by the TinyVGG model. The arc
 
 ## Results
 <p float="left" style="text-align: center; margin-right: 10px;">
-  <img src="https://github.com/user-attachments/assets/c035a4b8-aae7-47b2-80e7-ba942a53f048" width="55%" />
+  <img src="https://github.com/user-attachments/assets/c035a4b8-aae7-47b2-80e7-ba942a53f048" width="75%" />
   <br />
   <strong>Data transformed</strong>
 </p>
