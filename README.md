@@ -21,7 +21,7 @@ The images are preprocessed using the following steps:
 <p float="left" style="text-align: center; margin-right: 10px;">
   <img src="https://github.com/user-attachments/assets/413ba192-a020-4312-864f-516e47c8c520" width="95%" />
   <br />
-  <strong></strong>
+  <strong>Data transformed</strong>
 </p>
 
 
@@ -51,6 +51,6 @@ Simple Convolutional Neural Network (CNN) inspired by the TinyVGG model. The arc
 <p float="left" style="text-align: center; margin-right: 10px;">
   <img src="https://github.com/user-attachments/assets/c035a4b8-aae7-47b2-80e7-ba942a53f048" width="75%" />
   <br />
-  <strong>Data transformed</strong>
+  <strong></strong>
 </p>
 
