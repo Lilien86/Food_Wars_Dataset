@@ -30,3 +30,11 @@ Simple Convolutional Neural Network (CNN) inspired by the TinyVGG model. The arc
   2. **Loss Function**: CrossEntropyLoss for multi-class classification
   3. **Epochs**: 5 epochs
   4. **Metrics**:Training and testing losses and accuracies are printed for each epoch
+
+## Results
+<p float="left" style="text-align: center; margin-right: 10px;">
+  <img src="[https://github.com/user-attachments/assets/d59de12b-775f-4232-abab-4596978b8ec1](https://github.com/user-attachments/assets/c035a4b8-aae7-47b2-80e7-ba942a53f048)" width="55%" />
+  <br />
+  <strong>Result</strong>
+</p>
+
